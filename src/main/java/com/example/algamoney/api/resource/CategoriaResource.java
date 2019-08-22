@@ -2,7 +2,6 @@ package com.example.algamoney.api.resource;
 
 import java.net.URI;
 import java.util.List;
-import java.util.Optional;
 
 import javax.servlet.http.HttpServletResponse;
 
